@@ -1,0 +1,916 @@
+id: 94bebc578ebc4670b4860d7cfc5b994a
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  3ac85035ab824657a5052d660198e77f:
+    imgnum: 1
+    reference: I2PD197080001.tif
+    span:
+      start: 0
+      end: 559
+  57fe44477d8a4d449af46be4de5ccd6c:
+    imgnum: 3
+    reference: I2PD197080003.jpg
+    span:
+      start: 564
+      end: 635
+  31e9484168b44ad5a0b174bedce2dc29:
+    imgnum: 4
+    reference: I2PD197080004.jpg
+    span:
+      start: 640
+      end: 1135
+  7566a8b6b0f04b5abd4767da4b30423b:
+    imgnum: 5
+    reference: I2PD197080005.jpg
+    span:
+      start: 1140
+      end: 1965
+  62e3085c5adc4f5ab3e8e1a2ab093f50:
+    imgnum: 6
+    reference: I2PD197080006.jpg
+    span:
+      start: 1970
+      end: 2999
+  a08456cf21434967b712a961a24da6e8:
+    imgnum: 7
+    reference: I2PD197080007.jpg
+    span:
+      start: 3004
+      end: 3876
+  71bb791a78df457598674e51b941b0bf:
+    imgnum: 8
+    reference: I2PD197080008.jpg
+    span:
+      start: 3881
+      end: 4804
+  35aeae8ae4b5476c90791125de3ef63e:
+    imgnum: 9
+    reference: I2PD197080009.jpg
+    span:
+      start: 4809
+      end: 5847
+  671407df21994b9198445862c6eefce2:
+    imgnum: 10
+    reference: I2PD197080010.jpg
+    span:
+      start: 5852
+      end: 6830
+  59e72b70fed74b2caa8b1d102b0b9a11:
+    imgnum: 11
+    reference: I2PD197080011.jpg
+    span:
+      start: 6835
+      end: 7850
+  dff5f1b8f98d426386260fceaed5dde1:
+    imgnum: 12
+    reference: I2PD197080012.jpg
+    span:
+      start: 7855
+      end: 8883
+  152ee964f57546a8a1a595f3bf6de2a4:
+    imgnum: 13
+    reference: I2PD197080013.jpg
+    span:
+      start: 8888
+      end: 9703
+  80c1022f274d41d68f34881c5511a96c:
+    imgnum: 14
+    reference: I2PD197080014.jpg
+    span:
+      start: 9708
+      end: 10522
+  5cb6f2d5cd114b32b5dc4583fa6b87c1:
+    imgnum: 15
+    reference: I2PD197080015.jpg
+    span:
+      start: 10527
+      end: 11582
+  1361e053855a4b428faa0a7cc6ebbd16:
+    imgnum: 16
+    reference: I2PD197080016.jpg
+    span:
+      start: 11587
+      end: 12546
+  5061a6cbc4c04a3eb05ef9452a1905b7:
+    imgnum: 17
+    reference: I2PD197080017.jpg
+    span:
+      start: 12551
+      end: 13302
+  0def34e5dc904337964d7195f3770dfa:
+    imgnum: 18
+    reference: I2PD197080018.jpg
+    span:
+      start: 13307
+      end: 14125
+  06248ed9db2a4e26a96daf2f678fe299:
+    imgnum: 19
+    reference: I2PD197080019.jpg
+    span:
+      start: 14130
+      end: 15026
+  7defdc751b0c4ec7ad932984daf3e95d:
+    imgnum: 20
+    reference: I2PD197080020.jpg
+    span:
+      start: 15031
+      end: 16005
+  ab30827f8d164ff1afb1d16dea15412f:
+    imgnum: 21
+    reference: I2PD197080021.jpg
+    span:
+      start: 16010
+      end: 16962
+  d26cb21f79f744b7b7b79b9712c15fea:
+    imgnum: 22
+    reference: I2PD197080022.jpg
+    span:
+      start: 16967
+      end: 17939
+  919d5a18855f46588c2adf86ee625892:
+    imgnum: 23
+    reference: I2PD197080023.jpg
+    span:
+      start: 17944
+      end: 18915
+  11db8a974c0d4dc7941be4b0734eaa34:
+    imgnum: 24
+    reference: I2PD197080024.jpg
+    span:
+      start: 18920
+      end: 19906
+  fc9c564ed2cc4ff6a52c053535774605:
+    imgnum: 25
+    reference: I2PD197080025.jpg
+    span:
+      start: 19911
+      end: 20964
+  4827ccba330447fba811ff1260b725c8:
+    imgnum: 26
+    reference: I2PD197080026.jpg
+    span:
+      start: 20969
+      end: 21918
+  96c42880c47341df89dbabefffbd0d05:
+    imgnum: 27
+    reference: I2PD197080027.jpg
+    span:
+      start: 21923
+      end: 23055
+  5a64b04782e5477fbce4a83d25eb7d8f:
+    imgnum: 28
+    reference: I2PD197080028.jpg
+    span:
+      start: 23060
+      end: 24026
+  fffd99a4ac404f879b06bc58e8889616:
+    imgnum: 29
+    reference: I2PD197080029.jpg
+    span:
+      start: 24031
+      end: 24970
+  0a8c0d98f8604dce855459de639d9c8d:
+    imgnum: 30
+    reference: I2PD197080030.jpg
+    span:
+      start: 24975
+      end: 25937
+  5844b622b0b84de79063aa7246ed6087:
+    imgnum: 31
+    reference: I2PD197080031.jpg
+    span:
+      start: 25942
+      end: 26905
+  368ba6ee4a1f474a86808023f7c08780:
+    imgnum: 32
+    reference: I2PD197080032.jpg
+    span:
+      start: 26910
+      end: 27886
+  dcff66458d02456188b52c949be553e9:
+    imgnum: 33
+    reference: I2PD197080033.jpg
+    span:
+      start: 27891
+      end: 28881
+  32cce417331c4dc9a112ec2ac5dd3e8f:
+    imgnum: 34
+    reference: I2PD197080034.jpg
+    span:
+      start: 28886
+      end: 29729
+  e41f59aff4aa4416b095b701f903af45:
+    imgnum: 35
+    reference: I2PD197080035.jpg
+    span:
+      start: 29734
+      end: 30740
+  6f9851b277594f5ea90592d7ca634702:
+    imgnum: 36
+    reference: I2PD197080036.jpg
+    span:
+      start: 30745
+      end: 31717
+  65d2e0c6ca9d4adcbbd63ae7886213e9:
+    imgnum: 37
+    reference: I2PD197080037.jpg
+    span:
+      start: 31722
+      end: 32741
+  da6283f4380846bda4076f3c44d64662:
+    imgnum: 38
+    reference: I2PD197080038.jpg
+    span:
+      start: 32746
+      end: 33760
+  ff1e8da1f84342dd90a0f70100dc0776:
+    imgnum: 39
+    reference: I2PD197080039.jpg
+    span:
+      start: 33765
+      end: 34824
+  f4e842963e044afaa03145a658ed590b:
+    imgnum: 40
+    reference: I2PD197080040.jpg
+    span:
+      start: 34829
+      end: 35803
+  16409fa5d0624d64b6fd6ac37a222701:
+    imgnum: 41
+    reference: I2PD197080041.jpg
+    span:
+      start: 35808
+      end: 36764
+  a63bc5c52ea04e598eb98265da5337e4:
+    imgnum: 42
+    reference: I2PD197080042.jpg
+    span:
+      start: 36769
+      end: 37692
+  cbb752e1faa444de897b5c37ddf7a52f:
+    imgnum: 43
+    reference: I2PD197080043.jpg
+    span:
+      start: 37697
+      end: 38670
+  50bf81b717344742b5d5a5eb774bdcde:
+    imgnum: 44
+    reference: I2PD197080044.jpg
+    span:
+      start: 38675
+      end: 39646
+  c944188880f045778aff584fb7f48cf4:
+    imgnum: 45
+    reference: I2PD197080045.jpg
+    span:
+      start: 39651
+      end: 40460
+  3f839fb4b1c34a0da529514138ac59f2:
+    imgnum: 46
+    reference: I2PD197080046.jpg
+    span:
+      start: 40465
+      end: 41473
+  812362c1d44b4e43b848fbbec0d50845:
+    imgnum: 47
+    reference: I2PD197080047.jpg
+    span:
+      start: 41478
+      end: 42438
+  70f814635eb94e7da7f09e6a6abdaae0:
+    imgnum: 48
+    reference: I2PD197080048.jpg
+    span:
+      start: 42443
+      end: 43385
+  71670ad1fd974d068faf42a9390f9abb:
+    imgnum: 49
+    reference: I2PD197080049.jpg
+    span:
+      start: 43390
+      end: 44532
+  0275a5ed204c4f37afbb819b3e14a99e:
+    imgnum: 50
+    reference: I2PD197080050.jpg
+    span:
+      start: 44537
+      end: 45384
+  a3b13aecb0f848358487ac12bd3432df:
+    imgnum: 51
+    reference: I2PD197080051.jpg
+    span:
+      start: 45389
+      end: 46384
+  5bb9a578eda7450393922a286df1a4ce:
+    imgnum: 52
+    reference: I2PD197080052.jpg
+    span:
+      start: 46389
+      end: 47302
+  d0b103ff4ddd4dc6aa529ae0f67ba074:
+    imgnum: 53
+    reference: I2PD197080053.jpg
+    span:
+      start: 47307
+      end: 48345
+  9d433629f16a4582af6b44f04ce736ce:
+    imgnum: 54
+    reference: I2PD197080054.jpg
+    span:
+      start: 48350
+      end: 49286
+  941986f4b2fc4f4db910c35bc0dd1a34:
+    imgnum: 55
+    reference: I2PD197080055.jpg
+    span:
+      start: 49291
+      end: 50182
+  d995e83bfe1f42689e9189773857a624:
+    imgnum: 56
+    reference: I2PD197080056.jpg
+    span:
+      start: 50187
+      end: 51062
+  113bd4d637644ee4ab7cdb5f58f5325f:
+    imgnum: 57
+    reference: I2PD197080057.jpg
+    span:
+      start: 51067
+      end: 52048
+  f759b5959b7a4415b051b5bd8c3833f7:
+    imgnum: 58
+    reference: I2PD197080058.jpg
+    span:
+      start: 52053
+      end: 53006
+  1d3a4c0d895a48a1bcc299bc2e85ae52:
+    imgnum: 59
+    reference: I2PD197080059.jpg
+    span:
+      start: 53011
+      end: 53946
+  78957436911d449b8c02f13f74256f2c:
+    imgnum: 60
+    reference: I2PD197080060.jpg
+    span:
+      start: 53951
+      end: 54915
+  3541221ebb624b35b1a973da02b4cefb:
+    imgnum: 61
+    reference: I2PD197080061.jpg
+    span:
+      start: 54920
+      end: 55786
+  3d2bf80e25af402f9f8c049421da60e9:
+    imgnum: 62
+    reference: I2PD197080062.jpg
+    span:
+      start: 55791
+      end: 56746
+  4a53a6c4b3414294ad712484c37a6eac:
+    imgnum: 63
+    reference: I2PD197080063.jpg
+    span:
+      start: 56751
+      end: 57788
+  aa1481c102ea42b6b48bf7ec6ec3b179:
+    imgnum: 64
+    reference: I2PD197080064.jpg
+    span:
+      start: 57793
+      end: 58621
+  88a70154067b480d862bb5bd3e30f7b0:
+    imgnum: 65
+    reference: I2PD197080065.jpg
+    span:
+      start: 58626
+      end: 59707
+  765aba2f162142608056ae975eaaa5f8:
+    imgnum: 66
+    reference: I2PD197080066.jpg
+    span:
+      start: 59712
+      end: 60688
+  72e06f648ee04c7983ec18a4ab8fdebe:
+    imgnum: 67
+    reference: I2PD197080067.jpg
+    span:
+      start: 60693
+      end: 61716
+  e9a6f8d39df747e491ec235c97a5278e:
+    imgnum: 68
+    reference: I2PD197080068.jpg
+    span:
+      start: 61721
+      end: 62730
+  edb0eea3fad54409bb3f7e1fe67e6038:
+    imgnum: 69
+    reference: I2PD197080069.jpg
+    span:
+      start: 62735
+      end: 63898
+  d6167b90932a4b0d86befe5d9ade46c4:
+    imgnum: 70
+    reference: I2PD197080070.jpg
+    span:
+      start: 63903
+      end: 64904
+  a30612f6335c482589278cfe519bd54d:
+    imgnum: 71
+    reference: I2PD197080071.jpg
+    span:
+      start: 64909
+      end: 65835
+  c0955fd6f9f44f519484d81996d169f2:
+    imgnum: 72
+    reference: I2PD197080072.jpg
+    span:
+      start: 65840
+      end: 66709
+  1fe390464acb400abcad6cefa47bc55e:
+    imgnum: 73
+    reference: I2PD197080073.jpg
+    span:
+      start: 66714
+      end: 67776
+  6b4e153a267e4278a55d9e22a5d79ba3:
+    imgnum: 74
+    reference: I2PD197080074.jpg
+    span:
+      start: 67781
+      end: 68803
+  fd01485b270445a3aae92c02cdfafc4f:
+    imgnum: 75
+    reference: I2PD197080075.jpg
+    span:
+      start: 68808
+      end: 69722
+  e3eed5ac3ac74e3884740718b8d44dfa:
+    imgnum: 76
+    reference: I2PD197080076.jpg
+    span:
+      start: 69727
+      end: 70685
+  d607ffb9511c4e9ba86b3434c5514530:
+    imgnum: 77
+    reference: I2PD197080077.jpg
+    span:
+      start: 70690
+      end: 71720
+  5cddf09e2ad84b19b85e63c1161ad91e:
+    imgnum: 78
+    reference: I2PD197080078.jpg
+    span:
+      start: 71725
+      end: 72707
+  d186c3a1b27d4605bde94a5c7cdead49:
+    imgnum: 79
+    reference: I2PD197080079.jpg
+    span:
+      start: 72712
+      end: 73693
+  bbfa91e7498f425b8c2956792983fdfb:
+    imgnum: 80
+    reference: I2PD197080080.jpg
+    span:
+      start: 73698
+      end: 74718
+  f674d87aa2a942d986213ac9ff7b7758:
+    imgnum: 81
+    reference: I2PD197080081.jpg
+    span:
+      start: 74723
+      end: 75798
+  ed1e9155cd5544f6823a9df1ddbae661:
+    imgnum: 82
+    reference: I2PD197080082.jpg
+    span:
+      start: 75803
+      end: 76764
+  8c71942c9358469d808277f7b8ed6437:
+    imgnum: 83
+    reference: I2PD197080083.jpg
+    span:
+      start: 76769
+      end: 77734
+  283c6bf41f524cc6b583d37b5969682c:
+    imgnum: 84
+    reference: I2PD197080084.jpg
+    span:
+      start: 77739
+      end: 78602
+  34453aa876304111acc0d54f7d9c0033:
+    imgnum: 85
+    reference: I2PD197080085.jpg
+    span:
+      start: 78607
+      end: 79556
+  d8f0be336b8e488193afa412410b8502:
+    imgnum: 86
+    reference: I2PD197080086.jpg
+    span:
+      start: 79561
+      end: 80512
+  da0a3766e9764c3eac9017952df7d3d1:
+    imgnum: 87
+    reference: I2PD197080087.jpg
+    span:
+      start: 80517
+      end: 81529
+  85873e45b9c149d1a78e505808a409b3:
+    imgnum: 88
+    reference: I2PD197080088.jpg
+    span:
+      start: 81534
+      end: 82569
+  7684666ceffe4c5e815edf10688712ef:
+    imgnum: 89
+    reference: I2PD197080089.jpg
+    span:
+      start: 82574
+      end: 83597
+  303175d509464eef80006d5284fc208d:
+    imgnum: 90
+    reference: I2PD197080090.jpg
+    span:
+      start: 83602
+      end: 84622
+  1a04dbc672b144eab6faec5573853de9:
+    imgnum: 91
+    reference: I2PD197080091.jpg
+    span:
+      start: 84627
+      end: 85655
+  b79adec70a704b8cb64411df5ef1a704:
+    imgnum: 92
+    reference: I2PD197080092.jpg
+    span:
+      start: 85660
+      end: 86627
+  323a0856747f4559abd7336bd786580d:
+    imgnum: 93
+    reference: I2PD197080093.jpg
+    span:
+      start: 86632
+      end: 87632
+  2628de1aaac4475abf19993876624551:
+    imgnum: 94
+    reference: I2PD197080094.jpg
+    span:
+      start: 87637
+      end: 88716
+  85e2a46f930245bd83dd750756154165:
+    imgnum: 95
+    reference: I2PD197080095.jpg
+    span:
+      start: 88721
+      end: 89668
+  a6dbb1e380ad4dfb8b0c5a8309eb6fa8:
+    imgnum: 96
+    reference: I2PD197080096.jpg
+    span:
+      start: 89673
+      end: 90512
+  d84a593e60544e90b1a1d76d43caba7b:
+    imgnum: 97
+    reference: I2PD197080097.jpg
+    span:
+      start: 90517
+      end: 91462
+  b8f78fdce8e141cf8d1209d392f53832:
+    imgnum: 98
+    reference: I2PD197080098.jpg
+    span:
+      start: 91467
+      end: 92446
+  61a3ca8a6e1c49cb9b7cddb8d3133fc4:
+    imgnum: 99
+    reference: I2PD197080099.jpg
+    span:
+      start: 92451
+      end: 93467
+  f984809972af4345abc75d1e16b2b352:
+    imgnum: 100
+    reference: I2PD197080100.jpg
+    span:
+      start: 93472
+      end: 94525
+  5c652ca79f1945d8b3c349b36ab4ac38:
+    imgnum: 101
+    reference: I2PD197080101.jpg
+    span:
+      start: 94530
+      end: 95448
+  74596e4d057f4a908b4c8b8f81e5015c:
+    imgnum: 102
+    reference: I2PD197080102.jpg
+    span:
+      start: 95453
+      end: 96362
+  b1f4c6ac12d547d8bca95fa4fad2ab47:
+    imgnum: 103
+    reference: I2PD197080103.jpg
+    span:
+      start: 96367
+      end: 97438
+  ff8b38dcbef34a56be7b4011b255c559:
+    imgnum: 104
+    reference: I2PD197080104.jpg
+    span:
+      start: 97443
+      end: 98342
+  92714c03fcba48eb9cc0ebacffcc590e:
+    imgnum: 105
+    reference: I2PD197080105.jpg
+    span:
+      start: 98347
+      end: 99306
+  6274700491694dd5ade38b3004810340:
+    imgnum: 106
+    reference: I2PD197080106.jpg
+    span:
+      start: 99311
+      end: 100201
+  0fcf94c525ec4cfaa7c150bd339671dd:
+    imgnum: 107
+    reference: I2PD197080107.jpg
+    span:
+      start: 100206
+      end: 101207
+  3f2f952838e546bd90e2c342e9fb6802:
+    imgnum: 108
+    reference: I2PD197080108.jpg
+    span:
+      start: 101212
+      end: 102310
+  4b499de438c04ac78303383fc291a58c:
+    imgnum: 109
+    reference: I2PD197080109.jpg
+    span:
+      start: 102315
+      end: 103174
+  354255d258194cc6a5123df08f217b9a:
+    imgnum: 110
+    reference: I2PD197080110.jpg
+    span:
+      start: 103179
+      end: 104146
+  e0aa971585cd4f01b29ab235d1ccd31d:
+    imgnum: 111
+    reference: I2PD197080111.jpg
+    span:
+      start: 104151
+      end: 105196
+  76bfeb8c56794c89a9a564d02c383065:
+    imgnum: 112
+    reference: I2PD197080112.jpg
+    span:
+      start: 105201
+      end: 106396
+  2073b86127fa460ea4fa8b4151cb8076:
+    imgnum: 113
+    reference: I2PD197080113.jpg
+    span:
+      start: 106401
+      end: 107337
+  9de5f86724a84d7fa891767978f9b64b:
+    imgnum: 114
+    reference: I2PD197080114.jpg
+    span:
+      start: 107342
+      end: 108284
+  32e79a03097e48d59801a996b0b69135:
+    imgnum: 115
+    reference: I2PD197080115.jpg
+    span:
+      start: 108289
+      end: 109414
+  5a39106bfb464109b7a483e1efecdcb6:
+    imgnum: 116
+    reference: I2PD197080116.jpg
+    span:
+      start: 109419
+      end: 110442
+  1505be35a5b14dceb5e1f849c41aec08:
+    imgnum: 117
+    reference: I2PD197080117.jpg
+    span:
+      start: 110447
+      end: 111386
+  99a9ca3de3294fd79c8c7297f4b0049b:
+    imgnum: 118
+    reference: I2PD197080118.jpg
+    span:
+      start: 111391
+      end: 112398
+  d7ccf379820b467c81030d9ae6091827:
+    imgnum: 119
+    reference: I2PD197080119.jpg
+    span:
+      start: 112403
+      end: 113400
+  780beb67e9b941d3b11345805c7478bc:
+    imgnum: 120
+    reference: I2PD197080120.jpg
+    span:
+      start: 113405
+      end: 114295
+  47bb4fbaa41b4a86ad4ec2e3c522911a:
+    imgnum: 121
+    reference: I2PD197080121.jpg
+    span:
+      start: 114300
+      end: 115329
+  a3d9387007694ec4920fb9eaa64e9d50:
+    imgnum: 122
+    reference: I2PD197080122.jpg
+    span:
+      start: 115334
+      end: 116305
+  336540dc8d7a4545a125a9a7b30ff227:
+    imgnum: 123
+    reference: I2PD197080123.jpg
+    span:
+      start: 116310
+      end: 117375
+  2beb0ef6fd13439bb5a700a2e24257d7:
+    imgnum: 124
+    reference: I2PD197080124.jpg
+    span:
+      start: 117380
+      end: 118506
+  cc2792525bbc48db841816934dcf09cb:
+    imgnum: 125
+    reference: I2PD197080125.jpg
+    span:
+      start: 118511
+      end: 119527
+  3e5037b7aeb341cfb10b115e2af597bf:
+    imgnum: 126
+    reference: I2PD197080126.jpg
+    span:
+      start: 119532
+      end: 120657
+  f18bb3d19c944036aceb2d06930cfe1c:
+    imgnum: 127
+    reference: I2PD197080127.jpg
+    span:
+      start: 120662
+      end: 121755
+  258eaeea526d45d4b889f2a2620a7537:
+    imgnum: 128
+    reference: I2PD197080128.jpg
+    span:
+      start: 121760
+      end: 122855
+  b6ddf3ba31d546d29adb631b7113707d:
+    imgnum: 129
+    reference: I2PD197080129.jpg
+    span:
+      start: 122860
+      end: 123943
+  1a30ab81653b452d9de08bc50a96a53f:
+    imgnum: 130
+    reference: I2PD197080130.jpg
+    span:
+      start: 123948
+      end: 124976
+  f352d88c7ca54e37bdafcf63a8c2f3f5:
+    imgnum: 131
+    reference: I2PD197080131.jpg
+    span:
+      start: 124981
+      end: 126051
+  2e65932ab70741fe82115e29ea45326b:
+    imgnum: 132
+    reference: I2PD197080132.jpg
+    span:
+      start: 126056
+      end: 127122
+  fd36e28fa0774c8f9168a0ed94b70dc2:
+    imgnum: 133
+    reference: I2PD197080133.jpg
+    span:
+      start: 127127
+      end: 128249
+  dbfbac9573a646ff86b2a81e66576eb4:
+    imgnum: 134
+    reference: I2PD197080134.jpg
+    span:
+      start: 128254
+      end: 129407
+  3e0b51f741df4b54a6bd87c9d28da4b0:
+    imgnum: 135
+    reference: I2PD197080135.jpg
+    span:
+      start: 129412
+      end: 130511
+  9837a4c1042045869e70cdc9f427de26:
+    imgnum: 136
+    reference: I2PD197080136.jpg
+    span:
+      start: 130516
+      end: 131530
+  0a087a7ceca24360be2e94c7cff3f45a:
+    imgnum: 137
+    reference: I2PD197080137.jpg
+    span:
+      start: 131535
+      end: 132584
+  19222e7a3cd74071af09d0bd6045bffe:
+    imgnum: 138
+    reference: I2PD197080138.jpg
+    span:
+      start: 132589
+      end: 133524
+  02bfbd7dc3ec476fa0b3f2330e8e0144:
+    imgnum: 139
+    reference: I2PD197080139.jpg
+    span:
+      start: 133529
+      end: 134552
+  059fe9892bae4527ac6670b5b5f6bdbe:
+    imgnum: 140
+    reference: I2PD197080140.jpg
+    span:
+      start: 134557
+      end: 135581
+  1cb68e110f9b4af9958dc8727fade6ec:
+    imgnum: 141
+    reference: I2PD197080141.jpg
+    span:
+      start: 135586
+      end: 136645
+  7c588972544f4c3983e8ed77423dca83:
+    imgnum: 142
+    reference: I2PD197080142.jpg
+    span:
+      start: 136650
+      end: 137740
+  ad26aaa5bd5442b4b65802e97733a203:
+    imgnum: 143
+    reference: I2PD197080143.jpg
+    span:
+      start: 137745
+      end: 138708
+  883d123cc82f4f738fe801a2464b1d17:
+    imgnum: 144
+    reference: I2PD197080144.jpg
+    span:
+      start: 138713
+      end: 139688
+  ddbae493e90c4ae280508371430e4f36:
+    imgnum: 145
+    reference: I2PD197080145.jpg
+    span:
+      start: 139693
+      end: 140612
+  b7f4233653064025bee7dfe9ab65a73a:
+    imgnum: 146
+    reference: I2PD197080146.jpg
+    span:
+      start: 140617
+      end: 141515
+  d41b76f6562f481e9f6892be9e092d7a:
+    imgnum: 147
+    reference: I2PD197080147.jpg
+    span:
+      start: 141520
+      end: 142576
+  4bc8714955c94e25a5f6fe072f4df74c:
+    imgnum: 148
+    reference: I2PD197080148.jpg
+    span:
+      start: 142581
+      end: 143513
+  336b012a0f61410796c66a8782082a1c:
+    imgnum: 149
+    reference: I2PD197080149.jpg
+    span:
+      start: 143518
+      end: 144397
+  85c1d97780e94413b5ac77a2ed85cbe0:
+    imgnum: 150
+    reference: I2PD197080150.jpg
+    span:
+      start: 144402
+      end: 145303
+  5198ec4b28d340018df939777ab54cdd:
+    imgnum: 151
+    reference: I2PD197080151.jpg
+    span:
+      start: 145308
+      end: 146342
+  626e22e0202440d7a1ddef11bb3b4fb2:
+    imgnum: 152
+    reference: I2PD197080152.jpg
+    span:
+      start: 146347
+      end: 147096
+  c9b0149b8df5452db4ab7ba0f96e3df9:
+    imgnum: 153
+    reference: I2PD197080153.jpg
+    span:
+      start: 147101
+      end: 148178
